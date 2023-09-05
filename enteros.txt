@@ -1,0 +1,13 @@
+//enteros
+int 
+long
+
+boolean
+char
+
+//decimales
+float
+double
+
+//tipo clase
+String
